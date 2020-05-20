@@ -2,7 +2,7 @@
  * Pixel is a class for pixels of jpg images. It is used to identify the pixel
  * colour and location
  * 
- * @author Will Malisch, 250846447
+ * @author Will Malisch
  *
  */
 public class Pixel {
