@@ -3,7 +3,7 @@
  * child, a parent, and holds a data value of type Pixel. It is a support class
  * for the BinarySearchTree class
  * 
- * @author Will Malisch, 250846447
+ * @author Will Malisch
  *
  */
 public class BinaryNode {
