@@ -2,7 +2,7 @@
  * Location class is used to represent a simple x and y coordinate location
  * object. It is used as a support class to the Pixel class
  * 
- * @author Will Malisch, 250846447
+ * @author Will Malisch
  *
  */
 public class Location {
