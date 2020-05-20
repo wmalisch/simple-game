@@ -2,7 +2,7 @@
  * BinarySearchTree Class is a class that implements a Binary Search Tree of
  * type Pixel. It implements the BinarySearchTreeADT.
  * 
- * @author Will Malisch, 250846447
+ * @author Will Malisch
  *
  */
 public class BinarySearchTree implements BinarySearchTreeADT {
