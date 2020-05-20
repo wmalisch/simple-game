@@ -3,7 +3,7 @@
  * stores basic details of an image such as width, height, top left corner pixel
  * position and more. GraphicalFigures class implements the GraphicalFigureADT.
  * 
- * @author Will Malisch, 250846447
+ * @author Will Malisch
  *
  */
 //public class GraphicalFigure implements GraphicalFigureADT {
